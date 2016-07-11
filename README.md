@@ -1,6 +1,3 @@
-# About-The-Project
-Everything about the Project
-
 ##Letters for Black Lives##
 ####An Open Letter Project on Anti-Blackness####
 
